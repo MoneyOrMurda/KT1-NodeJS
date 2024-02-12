@@ -1,0 +1,2 @@
+The client guessed the number: 39
+Clue: More
